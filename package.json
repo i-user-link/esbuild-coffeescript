@@ -1,6 +1,6 @@
 {
   "name": "@iuser/esbuild-coffeescript",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "description": "Bundle CoffeeScript with Esbuild",
   "main": "index.js",
   "types": "index.d.ts",
